@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ege negir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ege negir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/egen17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="egen17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ege-negir-23202930b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ege-negir-23202930b/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/egen17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/egen17/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
