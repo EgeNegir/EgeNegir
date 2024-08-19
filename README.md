@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
 <h3 align="center">2nd Grade Computer Engineering student at Inonu Univeristy</h3>
 
-- 🔭 I’m currently working on **Python,HTML5,Kotlin**
+- 🔭 I’m currently working on **Python,HTML5**
 
 - 🌱 I’m currently learning **Python,HTML5,CSS,Kotlin**
 
