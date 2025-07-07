@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
-<h3 align="center">2nd Grade Computer Engineering student at Inonu University</h3>
+<h3 align="center">3rd Grade Computer Engineering student at Inonu University</h3>
 
 - 🔭 I’m currently working on **Python,HTML5**
 
