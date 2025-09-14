@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Python,HTML5,CSS,Kotlin**
+- 🌱 I’m currently learning **Python,CSS,Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EgeNegir](https://github.com/EgeNegir)
 
