@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
 <h3 align="center">3rd Grade Computer Engineering student at Inonu University</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python,Java**
 
-- 🌱 I’m currently learning **Python, CSS, Kotlin**
+- 🌱 I’m currently learning **Python, Kotlin , Java , Psql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EgeNegir](https://github.com/EgeNegir)
 
@@ -26,9 +26,6 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
   </a>
